@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/KavitaBedke/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KavitaBedke/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KavitaBedke/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/KavitaBedke/Leetcode/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/KavitaBedke/Leetcode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
