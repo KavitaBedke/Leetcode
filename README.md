@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/KavitaBedke/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/KavitaBedke/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KavitaBedke/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/KavitaBedke/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/KavitaBedke/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KavitaBedke/Leetcode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KavitaBedke/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
