@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/KavitaBedke/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/KavitaBedke/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
