@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/KavitaBedke/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0921-spiral-matrix-iii](https://github.com/KavitaBedke/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KavitaBedke/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/KavitaBedke/Leetcode/tree/master/0921-spiral-matrix-iii) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/KavitaBedke/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
