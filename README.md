@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/KavitaBedke/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KavitaBedke/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/KavitaBedke/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/KavitaBedke/Leetcode/tree/master/0010-regular-expression-matching) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/KavitaBedke/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/KavitaBedke/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KavitaBedke/Leetcode/tree/master/0009-palindrome-number) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/KavitaBedke/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
