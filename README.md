@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KavitaBedke/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0664-strange-printer](https://github.com/KavitaBedke/Leetcode/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KavitaBedke/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KavitaBedke/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KavitaBedke/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KavitaBedke/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0664-strange-printer](https://github.com/KavitaBedke/Leetcode/tree/master/0664-strange-printer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/KavitaBedke/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
