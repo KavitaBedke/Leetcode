@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KavitaBedke/Leetcode/tree/master/0011-container-with-most-water) |
+| [0546-remove-boxes](https://github.com/KavitaBedke/Leetcode/tree/master/0546-remove-boxes) |
 | [0624-maximum-distance-in-arrays](https://github.com/KavitaBedke/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0921-spiral-matrix-iii](https://github.com/KavitaBedke/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/0948-sort-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/KavitaBedke/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0546-remove-boxes](https://github.com/KavitaBedke/Leetcode/tree/master/0546-remove-boxes) |
 | [0664-strange-printer](https://github.com/KavitaBedke/Leetcode/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KavitaBedke/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KavitaBedke/Leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/KavitaBedke/Leetcode/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
