@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KavitaBedke/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/KavitaBedke/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2868-continuous-subarrays](https://github.com/KavitaBedke/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/KavitaBedke/Leetcode/tree/master/0948-sort-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KavitaBedke/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/KavitaBedke/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -137,4 +139,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KavitaBedke/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KavitaBedke/Leetcode/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KavitaBedke/Leetcode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KavitaBedke/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/KavitaBedke/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
